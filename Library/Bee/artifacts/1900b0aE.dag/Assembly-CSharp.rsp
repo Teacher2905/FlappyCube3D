@@ -355,6 +355,8 @@
 "Assets/Scripts/GameStartup.cs"
 "Assets/Scripts/ObstacleRay.cs"
 "Assets/Scripts/Pause.cs"
+"Assets/Scripts/PlatformMoving.cs"
+"Assets/Scripts/PlatformStorage.cs"
 "Assets/Scripts/PlayerJump.cs"
 "Assets/Scripts/PlayerMovement.cs"
 "Assets/Scripts/PlayerObstacleHandler.cs"

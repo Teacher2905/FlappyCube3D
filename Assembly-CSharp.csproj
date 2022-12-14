@@ -58,8 +58,10 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\GameStartup.cs" />
     <Compile Include="Assets\Scripts\PlayerObstacleHandler.cs" />
+    <Compile Include="Assets\Scripts\PlatformMoving.cs" />
     <Compile Include="Assets\Scripts\PlayerScoreUiDisplay.cs" />
     <Compile Include="Assets\Scripts\SceneLoader.cs" />
+    <Compile Include="Assets\Scripts\PlatformStorage.cs" />
     <Compile Include="Assets\Scripts\PlayerJump.cs" />
     <Compile Include="Assets\Scripts\ObstacleRay.cs" />
     <Compile Include="Assets\Scripts\PlayerMovement.cs" />
